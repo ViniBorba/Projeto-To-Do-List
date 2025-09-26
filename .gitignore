@@ -1,0 +1,12 @@
+# === Java / Spring Boot ===
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.log
+
+# H2 (arquivos locais)
+*.mv.db
+*.h2.db
+*.db
